@@ -1,0 +1,70 @@
+.ItemContainer {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+}
+
+.Item1 {
+position: absolute;
+width: 341px;
+height: 726px;
+left: 430px;
+top: 156px;
+background-color: aqua;
+}
+
+.Item2 {
+position: absolute;
+width: 341px;
+height: 726px;
+left: 760px;
+top: 156px;
+background-color: navajowhite;
+}
+
+.Item3 {
+position: absolute;
+width: 341px;
+height: 726px;
+left: 1100px;
+top: 156px;
+background-color: lightcoral;
+}
+
+.Item1 p{
+position: relative;
+top: 170px;
+}
+ 
+.Item2 p{
+position: relative;
+top: 170px;
+}
+
+.Item3 p{
+position: relative;
+top: 170px;
+}
+
+.Button {
+position: relative;
+top: 250px;
+}
+
+.Item1 h2 {
+position: relative;
+top: 100px;
+}
+
+.Item2 h2 {
+position: relative;
+top: 100px;
+}
+
+.Item3 h2 {
+position: relative; 
+top: 100px;
+}
+
